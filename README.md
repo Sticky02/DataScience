@@ -5,8 +5,8 @@ In this readme file I will be following a course plan which i will be updating a
 
 # Schedule
 ## Month 1
-  **Week 1**
+- **Week 1**
   - Python Basics
   - Numpy
-  **Week 2**
+- **Week 2**
   - pandas basics 
